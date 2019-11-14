@@ -40,7 +40,7 @@ it('subtraction test', function(){
     homepage.verifyResult('7');
   
 
-    browser.sleep(5000)
+    browser.sleep(4000)
 
 });
 
